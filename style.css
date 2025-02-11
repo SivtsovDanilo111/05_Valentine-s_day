@@ -1,0 +1,17 @@
+body {
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height:20px;
+    color: #000000;
+    background: #ffffff url("img/lovepik-valentines-day-background-image_400145517.jpg") no-repeat 50% 0;
+    background-size: cover;
+  }
+  
+.skills-list{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+   
+}
+  
