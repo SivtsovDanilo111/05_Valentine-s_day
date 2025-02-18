@@ -87,9 +87,9 @@ body {
     text-align: center;
   }
   #btn_love_wishes{
-    background: #d66060;
-    color: #9e6262;
-    border: 5px solid #9e6262;
+    background: #b9b271;
+    color: #0f0c0c;
+    border: 5px solid #af4545;
     border-radius: 10px;
     padding: 5px 20px;
     font-size: 36px;
@@ -99,7 +99,7 @@ body {
     height: 150px;
     font-size: 28px; 
     line-height: 40px;
-    color: #9e6262;
+    color: #111010;
     text-align: justify;
   }
   
